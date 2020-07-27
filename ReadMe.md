@@ -10,7 +10,7 @@ go get github.com/edwinnduti/jokes
 
 Example:
 ```go
-package main()
+package main
 import(
 	"fmt"
 	"github.com/edwinnduti/jokes"
