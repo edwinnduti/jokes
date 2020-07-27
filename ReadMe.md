@@ -5,7 +5,7 @@ A consumed [jokeAPI](https://sv443.net/jokeapi/v2/)  that render randomly choose
 
 usage:
 ```
-go get github/edwinnduti/jokes
+go get github.com/edwinnduti/jokes
 ```
 
 
